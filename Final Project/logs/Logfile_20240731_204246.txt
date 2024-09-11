@@ -1,0 +1,37 @@
+
+[20:42:55] WindowName : Running applications
+	Button:mouse left down
+	Clicked in (Position):(975, 1176)
+====================
+[20:42:56] WindowName : ChatGPT - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(543, 0)
+====================
+[20:42:57] WindowName : test my program aganist antivirus software - Google Search - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(292, 0)
+====================
+[20:42:59] WindowName : None
+	Button:mouse left down
+	Clicked in (Position):(1091, 1184)
+====================
+[20:43:01] WindowName : None
+	Button:mouse left down
+	Clicked in (Position):(1141, 1183)
+====================
+[20:43:02] WindowName : None
+	Button:mouse left down
+	Clicked in (Position):(1197, 1179)
+====================
+[20:43:03] WindowName : Running applications
+	Button:mouse left down
+	Clicked in (Position):(974, 1171)
+====================
+[20:43:04] WindowName : None
+	Button:mouse left down
+	Clicked in (Position):(1135, 1174)
+====================
+[20:43:09] WindowName : Running applications
+	Button:mouse left down
+	Clicked in (Position):(924, 1173)
+====================

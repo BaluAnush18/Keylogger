@@ -1,0 +1,66 @@
+2024-07-31 19:22:59,017 - INFO - Webcam video saved: video\webcam_20240731_192241.mp4
+2024-07-31 19:23:15,717 - INFO - Audio recording saved: audio\mic_20240731_192259.wav
+2024-07-31 19:23:15,725 - ERROR - Error sending email: [Errno 2] No such file or directory: 'logs\\Logfile_20240731_192213.txt'
+2024-07-31 19:24:16,103 - INFO - Webcam video saved: video\webcam_20240731_192405.mp4
+2024-07-31 19:25:08,681 - INFO - Screenshot saved: screenshots\U36D6GP.png
+2024-07-31 19:25:09,570 - INFO - Screenshot saved: screenshots\G0VDCV9.png
+2024-07-31 19:25:10,327 - INFO - Screenshot saved: screenshots\ZYU3KMT.png
+2024-07-31 19:25:47,072 - INFO - Webcam video saved: video\webcam_20240731_192535.mp4
+2024-07-31 19:26:00,302 - INFO - Audio recording saved: audio\mic_20240731_192547.wav
+2024-07-31 19:26:04,794 - INFO - Email sent successfully.
+2024-07-31 19:26:14,139 - INFO - Screenshot saved: screenshots\WAI1KXP.png
+2024-07-31 19:26:16,711 - INFO - Screenshot saved: screenshots\MDWWTWM.png
+2024-07-31 19:26:18,038 - INFO - Screenshot saved: screenshots\K3F19IH.png
+2024-07-31 19:26:21,727 - INFO - Screenshot saved: screenshots\TA6MRZD.png
+2024-07-31 19:26:25,631 - INFO - Screenshot saved: screenshots\QK8CX47.png
+2024-07-31 20:42:58,265 - INFO - Screenshot saved: screenshots\S6W7RZI.png
+2024-07-31 20:42:59,726 - INFO - Screenshot saved: screenshots\AJWH8UA.png
+2024-07-31 20:43:03,824 - INFO - Screenshot saved: screenshots\NUXLEIF.png
+2024-07-31 20:43:04,853 - INFO - Screenshot saved: screenshots\4KNFVTV.png
+2024-07-31 20:43:09,924 - INFO - Screenshot saved: screenshots\9CTSR4V.png
+2024-07-31 20:43:30,642 - INFO - Webcam video saved: video\webcam_20240731_204313.mp4
+2024-07-31 20:43:44,540 - INFO - Audio recording saved: audio\mic_20240731_204330.wav
+2024-07-31 20:43:50,022 - INFO - Email sent successfully.
+2024-07-31 20:44:01,620 - INFO - Webcam video saved: video\webcam_20240731_204351.mp4
+2024-07-31 20:44:12,577 - INFO - Audio recording saved: audio\mic_20240731_204401.wav
+2024-07-31 20:44:12,588 - ERROR - Error sending email: [Errno 2] No such file or directory: 'logs\\Logfile_20240731_204350.txt'
+2024-08-01 08:19:50,691 - INFO - Screenshot saved: screenshots\4N30ZYZ.png
+2024-08-01 08:19:53,413 - INFO - Screenshot saved: screenshots\TO0CS61.png
+2024-08-01 08:20:36,605 - INFO - Webcam video saved: video\webcam_20240801_082026.mp4
+2024-08-01 08:20:47,985 - INFO - Audio recording saved: audio\mic_20240801_082036.wav
+2024-08-01 08:21:09,118 - ERROR - Error sending email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-08-01 08:21:19,468 - INFO - Webcam video saved: video\webcam_20240801_082109.mp4
+2024-08-01 08:21:30,835 - INFO - Audio recording saved: audio\mic_20240801_082119.wav
+2024-08-01 08:21:30,843 - ERROR - Error sending email: [Errno 2] No such file or directory: 'logs\\Logfile_20240801_082109.txt'
+2024-08-01 08:21:41,229 - INFO - Webcam video saved: video\webcam_20240801_082130.mp4
+2024-08-01 08:21:52,717 - INFO - Audio recording saved: audio\mic_20240801_082141.wav
+2024-08-01 08:21:52,721 - ERROR - Error sending email: [Errno 2] No such file or directory: 'logs\\Logfile_20240801_082130.txt'
+2024-08-01 08:22:04,488 - INFO - Webcam video saved: video\webcam_20240801_082154.mp4
+2024-08-01 08:22:15,742 - INFO - Audio recording saved: audio\mic_20240801_082204.wav
+2024-08-01 08:22:15,747 - ERROR - Error sending email: [Errno 2] No such file or directory: 'logs\\Logfile_20240801_082152.txt'
+2024-08-01 08:24:35,826 - INFO - Screenshot saved: screenshots\KBDBLQA.png
+2024-08-01 08:24:39,616 - INFO - Screenshot saved: screenshots\TMISRUR.png
+2024-08-01 08:24:43,424 - INFO - Screenshot saved: screenshots\NDRJX66.png
+2024-08-01 08:25:09,217 - INFO - Webcam video saved: video\webcam_20240801_082458.mp4
+2024-08-01 08:25:22,067 - INFO - Audio recording saved: audio\mic_20240801_082509.wav
+2024-08-01 08:25:43,219 - ERROR - Error sending email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-08-01 08:25:44,031 - INFO - Screenshot saved: screenshots\D41QBQW.png
+2024-08-01 08:25:44,808 - INFO - Screenshot saved: screenshots\M5CVT8O.png
+2024-08-01 08:25:45,577 - INFO - Screenshot saved: screenshots\A48XZP2.png
+2024-08-01 08:25:46,417 - INFO - Screenshot saved: screenshots\O2O2U72.png
+2024-08-01 08:25:49,870 - INFO - Screenshot saved: screenshots\ZI7KOXS.png
+2024-08-01 08:28:27,663 - INFO - Screenshot saved: screenshots\ALQPIRC.png
+2024-08-01 08:28:40,122 - INFO - Webcam video saved: video\webcam_20240801_082829.mp4
+2024-08-01 08:28:51,441 - INFO - Audio recording saved: audio\mic_20240801_082840.wav
+2024-08-01 08:29:12,646 - ERROR - Error sending email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-08-01 08:31:18,872 - INFO - Screenshot saved: screenshots\ZWT5ND8.png
+2024-08-01 08:31:22,729 - INFO - Screenshot saved: screenshots\1AG1WYO.png
+2024-08-01 08:31:40,730 - INFO - Webcam video saved: video\webcam_20240801_083130.mp4
+2024-08-01 08:31:52,209 - INFO - Audio recording saved: audio\mic_20240801_083140.wav
+2024-08-01 08:32:00,994 - INFO - Email sent successfully.
+2024-08-01 11:48:08,684 - INFO - Screenshot saved: screenshots\J5RVH1K.png
+2024-08-01 11:48:09,286 - INFO - Screenshot saved: screenshots\JBIH6UY.png
+2024-08-01 11:48:22,152 - INFO - Screenshot saved: screenshots\8YJAK1B.png
+2024-08-01 11:48:35,326 - INFO - Webcam video saved: video\webcam_20240801_114824.mp4
+2024-08-01 11:48:46,528 - INFO - Audio recording saved: audio\mic_20240801_114835.wav
+2024-08-01 11:48:54,588 - INFO - Email sent successfully.

@@ -1,0 +1,21 @@
+
+[17:51:40] WindowName : Running applications
+	Button:mouse left down
+	Clicked in (Position):(956, 1180)
+====================
+[17:51:41] WindowName : None
+	Button:mouse left down
+	Clicked in (Position):(807, 686)
+====================
+[17:51:41] WindowName : None
+	Button:mouse left down
+	Clicked in (Position):(1045, 81)
+====================
+[17:51:43] WindowName : None
+	Button:mouse left down
+	Clicked in (Position):(810, 681)
+====================
+[17:51:43] WindowName : None
+	Button:mouse left down
+	Clicked in (Position):(810, 678)
+====================

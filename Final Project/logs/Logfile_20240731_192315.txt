@@ -1,0 +1,91 @@
+
+[19:23:15] WindowName : ChatGPT - Google Chrome
+	Keyboard key :T
+====================
+[19:23:15] WindowName : ChatGPT - Google Chrome
+	Keyboard key :E
+====================
+[19:23:16] WindowName : ChatGPT - Google Chrome
+	Keyboard key :D
+====================
+[19:23:16] WindowName : ChatGPT - Google Chrome
+	Keyboard key :Space
+====================
+[19:23:16] WindowName : ChatGPT - Google Chrome
+	Keyboard key :T
+====================
+[19:23:16] WindowName : ChatGPT - Google Chrome
+	Keyboard key :O
+====================
+[19:23:16] WindowName : ChatGPT - Google Chrome
+	Keyboard key :Space
+====================
+[19:23:17] WindowName : ChatGPT - Google Chrome
+	Keyboard key :R
+====================
+[19:23:17] WindowName : ChatGPT - Google Chrome
+	Keyboard key :E
+====================
+[19:23:17] WindowName : ChatGPT - Google Chrome
+	Keyboard key :C
+====================
+[19:23:17] WindowName : ChatGPT - Google Chrome
+	Keyboard key :O
+====================
+[19:23:17] WindowName : ChatGPT - Google Chrome
+	Keyboard key :R
+====================
+[19:23:18] WindowName : ChatGPT - Google Chrome
+	Keyboard key :D
+====================
+[19:23:18] WindowName : ChatGPT - Google Chrome
+	Keyboard key :Oem_Comma
+====================
+[19:23:18] WindowName : ChatGPT - Google Chrome
+	Keyboard key :Space
+====================
+[19:23:18] WindowName : ChatGPT - Google Chrome
+	Keyboard key :E
+====================
+[19:23:19] WindowName : ChatGPT - Google Chrome
+	Keyboard key :T
+====================
+[19:23:19] WindowName : ChatGPT - Google Chrome
+	Keyboard key :C
+====================
+[19:23:19] WindowName : ChatGPT - Google Chrome
+	Keyboard key :Oem_Period
+====================
+[19:23:20] WindowName : ChatGPT - Google Chrome
+	Keyboard key :Space
+====================
+[19:23:20] WindowName : ChatGPT - Google Chrome
+	Keyboard key :A
+====================
+[19:23:20] WindowName : ChatGPT - Google Chrome
+	Keyboard key :N
+====================
+[19:23:20] WindowName : ChatGPT - Google Chrome
+	Keyboard key :D
+====================
+[19:23:20] WindowName : ChatGPT - Google Chrome
+	Keyboard key :Space
+====================
+[19:23:21] WindowName : ChatGPT - Google Chrome
+	Keyboard key :S
+====================
+[19:23:21] WindowName : ChatGPT - Google Chrome
+	Keyboard key :A
+====================
+[19:23:21] WindowName : ChatGPT - Google Chrome
+	Keyboard key :V
+====================
+[19:23:21] WindowName : ChatGPT - Google Chrome
+	Keyboard key :I
+====================
+[19:23:22] WindowName : ChatGPT - Google Chrome
+	Keyboard key :N
+====================
+[19:23:22] WindowName : ChatGPT - Google Chrome
+	Keyboard key :G
+====================

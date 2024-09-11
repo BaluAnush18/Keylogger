@@ -1,0 +1,41 @@
+
+[17:50:08] WindowName : Running applications
+	Button:mouse left down
+	Clicked in (Position):(1000, 1167)
+====================
+[17:50:09] WindowName : ChatGPT - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(791, 0)
+====================
+[17:50:10] WindowName : New Tab - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(184, 0)
+====================
+[17:50:11] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(429, 250)
+====================
+[17:50:13] WindowName : None
+	Button:mouse left down
+	Clicked in (Position):(1073, 1177)
+====================
+[17:50:16] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(1398, 317)
+====================
+[17:50:18] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(613, 326)
+====================
+[17:50:19] WindowName : None
+	Button:mouse left down
+	Clicked in (Position):(1157, 1179)
+====================
+[17:50:22] WindowName : Running applications
+	Button:mouse left down
+	Clicked in (Position):(1009, 1176)
+====================
+[17:50:24] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(511, 272)
+====================

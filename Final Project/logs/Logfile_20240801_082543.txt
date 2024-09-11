@@ -1,0 +1,33 @@
+
+[1] WindowName : Inbox - baluanush20001806@gmail.com - Gmail - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(641, 0)
+====================
+[1] WindowName : Inbox - baluanush20001806@gmail.com - Gmail - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(555, 0)
+====================
+[1] WindowName : Inbox - baluanush20001806@gmail.com - Gmail - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(468, 0)
+====================
+[1] WindowName : Inbox - baluanush20001806@gmail.com - Gmail - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(381, 0)
+====================
+[1] WindowName : Inbox - baluanush20001806@gmail.com - Gmail - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(432, 23)
+====================
+[1] WindowName : Inbox - baluanush20001806@gmail.com - Gmail - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(674, 22)
+====================
+[1] WindowName : None
+	Button:mouse left down
+	Clicked in (Position):(1152, 1173)
+====================
+[1] WindowName : Running applications
+	Button:mouse left down
+	Clicked in (Position):(974, 1165)
+====================

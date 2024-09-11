@@ -1,0 +1,17 @@
+
+[1] WindowName : Running applications
+	Button:mouse left down
+	Clicked in (Position):(960, 1175)
+====================
+[1] WindowName : Inbox - baluanush20001806@gmail.com - Gmail - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(791, 0)
+====================
+[1] WindowName : Inbox (3) - baluanush496@gmail.com - Gmail - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(369, 0)
+====================
+[1] WindowName : VirusTotal - File - fb4d9d5417f2225dcf773cfbada919ab04654bb133d6f0cd36c3644ee5dc3847 - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(200, 0)
+====================

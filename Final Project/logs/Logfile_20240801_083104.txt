@@ -1,0 +1,17 @@
+
+[1] WindowName : Running applications
+	Button:mouse left down
+	Clicked in (Position):(962, 1167)
+====================
+[1] WindowName : Speedtest by Ookla - The Global Broadband Speed Test - Google Chrome
+	Button:mouse right down
+	Clicked in (Position):(1615, 29)
+====================
+[1] WindowName : Speedtest by Ookla - The Global Broadband Speed Test - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(1558, 21)
+====================
+[1] WindowName : Chrome Legacy Window
+	Button:mouse right down
+	Clicked in (Position):(51, 875)
+====================

@@ -1,0 +1,21 @@
+
+[1] WindowName : Running applications
+	Button:mouse right down
+	Clicked in (Position):(967, 1179)
+====================
+[1] WindowName : keylogger.py – keylogger.py
+	Button:mouse left down
+	Clicked in (Position):(1168, 594)
+====================
+[1] WindowName : Running applications
+	Button:mouse left down
+	Clicked in (Position):(980, 1184)
+====================
+[1] WindowName : App passwords - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(759, 0)
+====================
+[1] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(531, 332)
+====================

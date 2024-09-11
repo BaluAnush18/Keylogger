@@ -1,0 +1,82 @@
+
+[1] WindowName : Running applications
+	Button:mouse left down
+	Clicked in (Position):(837, 1173)
+====================
+[1] WindowName : Search
+	Keyboard key :N
+====================
+[1] WindowName : Search
+	Keyboard key :O
+====================
+[1] WindowName : Search
+	Keyboard key :T
+====================
+[1] WindowName : Search
+	Keyboard key :E
+====================
+[1] WindowName : Search
+	Keyboard key :Return
+====================
+[1] WindowName : Notepad++
+	Button:mouse left down
+	Clicked in (Position):(707, 484)
+====================
+[1] WindowName : *new 1 - Notepad++
+	Keyboard key :Lcontrol
+====================
+[1] WindowName : *new 1 - Notepad++
+	Keyboard key :Lcontrol
+====================
+[1] WindowName : *new 1 - Notepad++
+	Keyboard key :Lcontrol
+====================
+[1] WindowName : *new 1 - Notepad++
+	Keyboard key :Lcontrol
+====================
+[1] WindowName : *new 1 - Notepad++
+	Keyboard key :A
+====================
+[1] WindowName : *new 1 - Notepad++
+	Keyboard key :Back
+====================
+[1] WindowName : Tab
+	Button:mouse left down
+	Clicked in (Position):(150, 93)
+====================
+[1] WindowName : Tab
+	Button:mouse left down
+	Clicked in (Position):(50, 98)
+====================
+[1] WindowName : Tab
+	Button:mouse left down
+	Clicked in (Position):(164, 105)
+====================
+[1] WindowName : D:\University of Windsor\Semester 3\COMP 8677 - Networking & Data Security\Project\Final Project\Keylogger.py - Notepad++
+	Keyboard key :Lcontrol
+====================
+[1] WindowName : D:\University of Windsor\Semester 3\COMP 8677 - Networking & Data Security\Project\Final Project\Keylogger.py - Notepad++
+	Keyboard key :N
+====================
+[1] WindowName : Tab
+	Button:mouse left down
+	Clicked in (Position):(233, 98)
+====================
+[1] WindowName : new 3 - Notepad++
+	Keyboard key :Lshift
+====================
+[1] WindowName : new 3 - Notepad++
+	Keyboard key :T
+====================
+[1] WindowName : *new 3 - Notepad++
+	Keyboard key :H
+====================
+[1] WindowName : *new 3 - Notepad++
+	Keyboard key :Space
+====================
+[1] WindowName : *new 3 - Notepad++
+	Keyboard key :E
+====================
+[1] WindowName : *new 3 - Notepad++
+	Keyboard key :Space
+====================

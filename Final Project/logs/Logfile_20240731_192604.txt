@@ -1,0 +1,37 @@
+
+[19:26:11] WindowName : Running applications
+	Button:mouse left down
+	Clicked in (Position):(974, 1164)
+====================
+[19:26:12] WindowName : ChatGPT - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(250, 0)
+====================
+[19:26:13] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(445, 258)
+====================
+[19:26:16] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(769, 392)
+====================
+[19:26:17] WindowName : Log data - baluanush20001806@gmail.com - Gmail - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(453, 0)
+====================
+[19:26:19] WindowName : None
+	Button:mouse left down
+	Clicked in (Position):(1187, 50)
+====================
+[19:26:20] WindowName : ChatGPT - Google Chrome
+	Button:mouse left down
+	Clicked in (Position):(1770, 24)
+====================
+[19:26:21] WindowName : Final Project 2 – keylogger.py
+	Button:mouse left down
+	Clicked in (Position):(1509, 27)
+====================
+[19:26:25] WindowName : Final Project 2 – keylogger.py
+	Button:mouse left down
+	Clicked in (Position):(1507, 12)
+====================
